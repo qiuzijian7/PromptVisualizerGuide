@@ -92,7 +92,7 @@
 
 ### 3. Prompt Visualizer配置 Notion
 #### 3.1 Prompt Visualizer chrome插件中配置
-- 安装Prompt Visualizer Plgin
+- 安装Prompt Visualizer Plugin
 - 插件中打开SettingPage->配置Key和Page地址->最后点保存
 
 ![](https://github.com/qiuzijian7/PromptVisualizerGuide/assets/7805317/0355518c-d432-4520-8a7c-505eb0238c04)
