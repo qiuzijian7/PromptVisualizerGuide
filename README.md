@@ -16,12 +16,12 @@
 -   多工作页签支持
 
 ## 使用教程
-
+<!-- 
 <a href="https://www.bilibili.com/video/BV15N411P7D3/?spm_id_from=333.337.search-card.all.click&vd_source=1f6edbc8e03c44932da52d02c0c11c1c" target="_blank">
  <img width="300" src="https://user-images.githubusercontent.com/82231420/230757939-dde301f1-bf68-4455-83c6-f7dd2214c68b.png">
 </a>
 
-[📺 B 站视频教程](https://www.bilibili.com/video/BV15N411P7D3/?spm_id_from=333.337.search-card.all.click&vd_source=1f6edbc8e03c44932da52d02c0c11c1c)
+[📺 B 站视频教程](https://www.bilibili.com/video/BV15N411P7D3/?spm_id_from=333.337.search-card.all.click&vd_source=1f6edbc8e03c44932da52d02c0c11c1c) -->
 
 
 ## 如何连接的我的 Notion 来管理自己的词典
