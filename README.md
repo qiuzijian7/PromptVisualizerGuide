@@ -92,7 +92,8 @@
 
 ### 3. Prompt Visualizer配置 Notion
 #### 3.1 Prompt Visualizer chrome插件中配置
-- 安装Prompt Visualizer Plugin
+- 安装[Prompt Visualizer Plugin](https://chrome.google.com/webstore/detail/prompt-visualizer-plugin/nlpeblaenehdacbmfonebhfmendpdlma/related?hl=en)
+![](https://github.com/qiuzijian7/PromptVisualizerGuide/assets/7805317/9466c4fd-aa11-4b0f-945a-fa6e07981bc9)
 - 插件中打开SettingPage->配置Key和Page地址->最后点保存
 
 ![](https://github.com/qiuzijian7/PromptVisualizerGuide/assets/7805317/0355518c-d432-4520-8a7c-505eb0238c04)
