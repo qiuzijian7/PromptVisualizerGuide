@@ -32,7 +32,7 @@
 
 复制我们的模板文档到你自己的 Notion 工作区中
 
-[**📕 PromptVisualizer预设收集**](![](https://working-uncle-0b5.notion.site/da1ab037fdc6427eaa17719a7af3e0bf?v=a418c640b3fe4f498f2f91e2a318e6e2))
+[**📕 PromptVisualizer预设收集**](https://working-uncle-0b5.notion.site/da1ab037fdc6427eaa17719a7af3e0bf?v=a418c640b3fe4f498f2f91e2a318e6e2)
 
 ![](https://github.com/qiuzijian7/PromptVisualizerGuide/assets/7805317/e94a96e6-bfdd-4b9d-a89a-d4e11579a916)
 
@@ -95,15 +95,11 @@
 - 安装[Prompt Visualizer Plugin](https://chrome.google.com/webstore/detail/prompt-visualizer-plugin/nlpeblaenehdacbmfonebhfmendpdlma/related?hl=en)
 ![](https://github.com/qiuzijian7/PromptVisualizerGuide/assets/7805317/9466c4fd-aa11-4b0f-945a-fa6e07981bc9)
 - 插件中打开SettingPage->配置Key和Page地址->最后点保存
-
 ![](https://github.com/qiuzijian7/PromptVisualizerGuide/assets/7805317/0355518c-d432-4520-8a7c-505eb0238c04)
-
 ![20230710-102744](https://github.com/qiuzijian7/PromptVisualizerGuide/assets/7805317/cdf0cdda-86c0-458e-98e6-042f11ffa7fc)
 
 - AI网站中鼠标右键点击“Save to Notion”，Notion中会自动增加该提示词
-
 ![](https://github.com/qiuzijian7/PromptVisualizerGuide/assets/7805317/2c0cc6eb-b0e2-48c4-9678-89ba92862817)
-
 ![](https://github.com/qiuzijian7/PromptVisualizerGuide/assets/7805317/243f89d6-9b42-4f98-993d-4edde3e4b581)
 
 #### 3.2 Prompt Visualizer web工具中配置
